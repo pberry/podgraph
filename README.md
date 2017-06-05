@@ -34,29 +34,41 @@ If one had a graph data set of the connections between podcasts, hosts, and gues
 
 "Who has been a guest on The Talk Show?"
 
-* Adam Lisagor
-* Ben Thompson
-* Craig Federighi
-* Craig Hockenberry
-* Dan Frommer
-* Dave Wiskus
-* Glenn Fleishman
-* Guy English
-* Jason Snell
-* Jim Dalrymple
-* Joanna Stern
-* John Moltz
-* John Siracusa
-* MG Siegler
-* Marco Arment
-* Matthew Panzarino
-* Merlin Mann
-* Paul Kafasis
-* Phil Schiller
-* Rene Ritchie
-* Serenity Caldwell
+* Adam Lisagor (2)
+* Amy Jane Gruber (1)
+* Ben Thompson (10)
+* Brent Simmons (1)
+* Casey Liss (1)
+* Christa Mrgan (1)
+* Craig Federighi (3)
+* Craig Hockenberry (2)
+* Dan Frommer (7)
+* Dave Wiskus (2)
+* David Sparks (1)
+* Eddy Cue (1)
+* Glenn Fleishman (3)
+* Guy English (8)
+* Horace Dediu (1)
+* Jason Snell (7)
+* Jim Dalrymple (4)
+* Joanna Stern (5)
+* John Moltz (12)
+* John Siracusa (4)
+* Lisa Jackson (1)
+* MG Siegler (3)
+* Manton Reece (1)
+* Marco Arment (7)
+* Mark Gurman (1)
+* Matthew Panzarino (6)
+* Merlin Mann (6)
+* Nilay Patel (1)
+* Paul Kafasis (2)
+* Phil Schiller (2)
+* Rene Ritchie (9)
+* Scott Simpson (1)
+* Serenity Caldwell (5)
 
-From this list from just one podcast you could potentially see a very interesting graph pointing to other podcasts that these people host or have had guest appearances. The Jason Snell connection alone would produce a large number of connections.
+From this list (current as of June 4, 2017) from just one podcast you could potentially see a very interesting graph pointing to other podcasts that these people host or have had guest appearances. The Jason Snell connection alone would produce a large number of connections.
 
 ## Recommendations
 Ideally one would be able to start at a podcast or person, either as a host or guest, and then find other podcasts they would be interested in based on the connections of the people. For instance, say you like [Unattended Consequences](https://unattendedconsequences.simplecast.fm/) which is hosted by [Max Tempkin](https://twitter.com/MaxTemkin) and [Patrick Rothfuss](http://www.patrickrothfuss.com/). They don't have a lot of guests, but they do show up on other podcasts as guests. There are all kinds of reasons that you may not know about those connections and this system would allow you to discover these other shows.
