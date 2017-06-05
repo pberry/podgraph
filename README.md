@@ -1,5 +1,5 @@
 # podgraph
-Wherein we map the connections between podcasts.
+Wherein we (hope to someday) map the connections between podcasts.
 
 ## The Idea
 You listen to podcasts. Podcasts have hosts and guests. Both hosts and guests appear on other podcasts you may not know about. Wouldn't it be great to a) visualize a graph of podcasts starting with one you know and love and b) be able to find other podcasts based on the connections of hosts and guests?
