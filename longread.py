@@ -10,7 +10,7 @@ for post in d.entries:
    	if "Longread" in post.summary :
    		soup = BeautifulSoup(post.summary, 'html.parser')
    		postPub = time.strftime("%A, %B %d" ,post.published_parsed)
-   		print(postPub)
+
    		for p in soup.find_all('p'):
    			if "Longreads:" in p.text:
    				print ("\n**" + postPub + "**")
